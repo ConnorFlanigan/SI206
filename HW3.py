@@ -2,7 +2,7 @@
 # Your student id:
 # Your email:
 # List who you have worked with on this homework:
-
+#Tarush Nandrajog
 
 # import the random module for use in this program
 
