@@ -12,7 +12,8 @@
     # it sets this object's answer_list (instance variable) to the passed list of possible answers
     # it sets this object's question_list (instance variable) to an empty list
     # it sets this object's answer_history_list (instance variable) to an empty list
-
+class Magic_8_Ball:
+    
 
     # create the __str__ method
     # It should return a string with all the answers
